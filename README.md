@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anvin Joseph Peter
 - 👀 I’m interested in Electronics,VLSI,ML..
 - 🌱 I’m currently learning btech in ECE at TKMCE,kollam
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @linkedin
 
 
